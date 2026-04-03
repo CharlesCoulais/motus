@@ -2,10 +2,15 @@
 Just for fun : a little Motus game  in one line of JS, to copy/paste in the Chrome console.
 
 
-## How to Play
+## Quick start
+Clone the repository, tap the command `make run` and open a Chrome tab to localhost:4242.
+Then follow the instructions.
+
+
+## How to Play (without cloning)
 - Open the js file en copy the entire line of code.
 - Open a console in any Chrome tab, paste the line and execute it.
-- Then start a game by calling `motus.run();`
+- Then start a game by calling `motus.play();`
 
 ### Dialogs
 If you just run the program like this, a prompt will ask the game master to enter a word.
